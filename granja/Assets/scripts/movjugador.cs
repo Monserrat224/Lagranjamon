@@ -63,4 +63,14 @@ public void Moverse(InputAction.CallbackContext contexto){
         }
     }
 
+    private void OnTriggerEnter2D(Collider2D colision)
+    {
+        if (colision.CompareTag("Nido"))
+        {
+            Destroy(colision.gameObject);
+            GameManager.instancia.SumarHuevo();
+            Debug.Log("Nido destruido");
+        }
+    }
+
 }
