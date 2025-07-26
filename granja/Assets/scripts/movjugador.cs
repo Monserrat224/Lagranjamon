@@ -10,8 +10,8 @@ public class movjugador : MonoBehaviour
          Rigidbody2D rb;
          public Vector2 entrada;
          Animator animator;
-         public GameObject preFabTrigo;
-
+    public GameObject preFabTrigo;
+    public GameObject preFabJitomate;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -54,23 +54,22 @@ public void Moverse(InputAction.CallbackContext contexto){
       }
 
     }
-
-    public void SembrarTrigo(InputAction.CallbackContext contexto)
+public void SembrarTrigo(InputAction.CallbackContext contexto) { 
+        if(contexto.started){
+        Instantiate(preFabTrigo,transform.position, Quaternion.identity);
+    }
+    }
+    public void SembrarJitomate(InputAction.CallbackContext contexto)
     {
-        if(contexto.started)
+        if (contexto.started)
         {
-            Instantiate(preFabTrigo ,transform.position, Quaternion.identity);
+            Instantiate(preFabJitomate, transform.position, Quaternion.identity);
         }
     }
-
-    private void OnTriggerEnter2D(Collider2D colision)
-    {
-        if (colision.CompareTag("Nido"))
-        {
+    private void OnTriggerEnter2D(Collider2D colision) {
+        if (colision.CompareTag("nido")){
             Destroy(colision.gameObject);
             GameManager.instancia.SumarHuevo();
-            Debug.Log("Nido destruido");
         }
     }
-
 }

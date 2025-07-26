@@ -17,7 +17,7 @@
                 {
                     "name": "sembrartrigo",
                     "type": "Button",
-                    "id": "439735c5-d3a6-41e3-ab19-d649f1e5178b",
+                    "id": "4126d4b0-793d-4132-8ae8-92ffaba62f74",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -26,7 +26,7 @@
                 {
                     "name": "siembrajitomate",
                     "type": "Button",
-                    "id": "4fc33d77-a367-42e8-b1ee-b86f34c21731",
+                    "id": "b6ab95ae-6f11-4ab9-b9e8-aae38e0b84b8",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -168,7 +168,7 @@
                 },
                 {
                     "name": "",
-                    "id": "3baae716-7c39-4dad-a8f4-00d7afb49edc",
+                    "id": "45dcea7a-6916-4f44-b5e1-e64f12bf3cac",
                     "path": "<Keyboard>/c",
                     "interactions": "",
                     "processors": "",
@@ -179,7 +179,7 @@
                 },
                 {
                     "name": "",
-                    "id": "55f9cdab-0522-418b-8215-6987877a0c9f",
+                    "id": "eb3aa58c-eff3-47e5-83a7-9ddbf5209b21",
                     "path": "<Keyboard>/b",
                     "interactions": "",
                     "processors": "",

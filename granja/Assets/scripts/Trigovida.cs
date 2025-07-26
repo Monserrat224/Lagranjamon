@@ -2,30 +2,26 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
 
-public class Trigovida : MonoBehaviour
+public class trigoVida : MonoBehaviour
 {
-    public int Estado = 0;
-    public Animator animator;
-    public float tiempo = 5f;
-
-
+    int estado;
+    Animator animator;
+    float tiempoespera = 4f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         animator = GetComponent<Animator>();
         StartCoroutine(CambiarEstado());
     }
-
     private IEnumerator CambiarEstado()
     {
-        while(Estado < 4)
+        while (estado < 4)
         {
-            animator.SetInteger("Estado", Estado);
-            Estado++;
-            yield return new WaitForSeconds(tiempo);
+            animator.SetInteger("estado", estado);
+            estado++;
+            yield return new WaitForSeconds(tiempoespera);
         }
-
     }
 
-   
+
 }

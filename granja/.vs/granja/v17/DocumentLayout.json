@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\movjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\movjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\movjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\Trigovida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Trigovida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\trigoVida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\trigoVida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T17:40:33.46Z",
+              "WhenOpened": "2025-07-14T17:40:45.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "movjugador.cs",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\movjugador.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\movjugador.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\movjugador.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\movjugador.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\movjugador.cs",
               "RelativeToolTip": "Assets\\scripts\\movjugador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:06:43.986Z",
+              "WhenOpened": "2025-07-07T18:06:06.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Trigovida.cs",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\Trigovida.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Trigovida.cs",
-              "ToolTip": "C:\\Users\\ALUMNO\\Documents\\granja de mari\\Lagranjamon\\granja\\Assets\\scripts\\Trigovida.cs",
-              "RelativeToolTip": "Assets\\scripts\\Trigovida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Title": "trigoVida.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\trigoVida.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\trigoVida.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\Nadiaproyecto\\practicagranja\\granja\\Assets\\scripts\\trigoVida.cs",
+              "RelativeToolTip": "Assets\\scripts\\trigoVida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T17:14:12.225Z"
+              "WhenOpened": "2025-07-07T17:14:07.102Z",
+              "EditorCaption": ""
             }
           ]
         }
